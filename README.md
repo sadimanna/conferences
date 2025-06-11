@@ -1,1 +1,53 @@
-# conferences
+# Here’s the updated list of conferences relevant to AI, ML, Data Science, Deep Learning, Pattern Recognition, and Image Processing, categorized by rank (A*, A, B):
+
+# A Conferences (Top Tier)*
+
+| Conference Name |	Acronym	| CORE | Year |	Rank |	Relevant Fields |
+|---|---|---|---|---|---|
+|	National Conference of the American Association for Artificial Intelligence	| AAAI |	CORE | 2023 |	A*	| AI, ML |
+| International Joint Conference on Autonomous Agents and Multiagent Systems | AAMAS|	CORE|2023	|A*	|AI, Multiagent Systems|
+|	Association for Computational Linguistics |	ACL |	CORE|2023|	A*|	NLP, AI|
+|	IEEE Conference on Computer Vision and Pattern Recognition|	CVPR|	CORE|2023|	A*|	CV, Pattern Recognition|
+|	IEEE International Conference on Computer Vision	|ICCV|	CORE|2023|	A*	|CV, Image Processing|
+|	International Conference on Learning Representations|	ICLR|	CORE|2023|	A*	|Deep Learning, ML|
+|	International Conference on Machine Learning|	ICML	|CORE|2023	|A*	|ML, AI|
+|	International Joint Conference on Artificial Intelligence|	IJCAI	|CORE|2023	|A*	|AI|
+|	ACM International Conference on Knowledge Discovery and Data Mining|	KDD|	CORE|2023	|A*|	Data Science, ML|
+|	Advances in Neural Information Processing Systems|	NeurIPS	|CORE|2023|	A*	|Deep Learning, ML|
+| IEEE International Conference on Data Mining | ICDM | CORE | 2023 | A* | ML, Data management and data science |
+| International Conference on Data Engineering | ICDE | CORE | 2023 | A* | Data management and data science|
+| ACM Multimedia | ACMMM | CORE|2023|A*|CV and multimedia computation|
+|International World Wide Web Conference | WWW | CORE | 2023 | A* | Data management and DS|
+|ACM SIG International Conference on Computer Graphics and Interactive Techniques|SIGGRAPH| CORE | 2023 | A* | CV,AI |
+|IEEE International Conference on Robotics and Automation|ICRA | CORE|2023|A*|AI|
+
+
+# A Conferences (High Tier)
+
+| Conference Name |	Acronym	| CORE | Year |	Rank |	Relevant Fields |
+|---|---|---|---|---|---|
+|	International Conference on Artificial Intelligence and Statistics|	AISTATS |	CORE |2023	| A|	ML, Statistics|
+|	Empirical Methods in Natural Language Processing	|EMNLP|	CORE|2023|	A	|NLP, AI|
+|	European Conference on Computer Vision|	ECCV|	CORE|2023|	A	|CV, Image Processing|
+|	ACM International Conference on Web Search and Data Mining|	WSDM	|CORE|2023	|A	|Data Science, ML|
+|	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database	|ECML PKDD|	CORE|2023|	A	|ML, Data Mining|
+|	Pacific-Asia Conference on Knowledge Discovery and Data Mining|	PAKDD|	CORE | 2023 | A|	Data Science, ML|
+|	IEEE International Conference on Data Science and Advanced Analytics |	DSAA |	CORE| 2023 |	A	 | Data Science, AI|
+|	British Machine Vision Conference	| BMVC |	CORE|2023	| A	|CV, Pattern Recognition|
+| Medical Image Computing and Computer-Assisted Intervention | MICCAI | CORE | 2023| A |CV and multimedia computation|
+|IEEE International Conference on Multimedia and Expo | ICME | CORE | 2023 | A | CV and multimedia computation|
+| Interspeech | Interspeech | CORE | 2023 | A | AI|
+|ACM International Conference on Information and Knowledge Management|CIKM|CORE|2023|A|AI,DS|
+|European Conference on Artificial Intelligence|ECAI|CORE|2023|A|AI,CV,ML|
+
+
+
+# B Conferences (Mid Tier)
+
+| Conference Name |	Acronym	| CORE | Year |	Rank |	Relevant Fields |
+|---|---|---|---|---|---|
+|	International Conference on Neural Information Processing |	ICONIP	|CORE|2023	|B|	Neural Networks, AI|
+|	IEEE International Joint Conference on Neural Networks|	IJCNN|	CORE|2023|	B	|Neural Networks, AI|
+|	International Conference on Pattern Recognition|	ICPR|	CORE|2023|	B	|Pattern Recognition, CV|
+|IEEE Workshop on Applications of Computer Vision	|WACV|	CORE|2023|	B	|CV, Image Processing|
+| IEEE International Conference on Acoustics, Speech and Signal Processing|ICASSP|CORE|2023|B|Speech, AI,ML|
