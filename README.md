@@ -1,6 +1,6 @@
 # Here’s the updated list of conferences relevant to AI, ML, Data Science, Deep Learning, Pattern Recognition, and Image Processing, categorized by rank (A*, A, B):
 
-# A Conferences (Top Tier)*
+# A* Conferences (Top Tier)
 
 | Conference Name |	Acronym	| CORE | Year |	Rank |	Relevant Fields |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | Conference in Uncertainty in Artifical Intelligence | UAI | CORE | 2023 | A* | AI |
 |Usenix Security|USENIX-Security|CORE|2023|A*|Privacy|
 |Usenix Network and Distributed System Security Symposium|NDSS|CORE|2023|A*|Privacy|
+|Conference on Learning Theory | COLT|CORE|2023|A*|ML|
 
 
 # A Conferences (High Tier)
