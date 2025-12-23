@@ -53,6 +53,7 @@
 |Asia Conference on Information, Computer and Communications Security|AsiaCCS|CORE|2023|A|Privacy|
 |North American Association for Computational Linguistics|NAACL|CORE|2023|A|AI,
 |NLP|
+|IEEE Symposium on Security and Privacy|S&P|CORE|2023|A|Privacy,Security|
 
 
 
