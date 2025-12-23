@@ -19,7 +19,12 @@
 | ACM Multimedia | ACMMM | CORE|2023|A*|CV and multimedia computation|
 |International World Wide Web Conference | WWW | CORE | 2023 | A* | Data management and DS|
 |ACM SIG International Conference on Computer Graphics and Interactive Techniques|SIGGRAPH| CORE | 2023 | A* | CV,AI |
+| ACM International Conference on Research and Development in Information Retrieval | SIGIR | CORE | 2023 | A* | IR,AI|
+| ACM International Conference on Knowledge Discovery and Data Mining | SIGKDD | CORE | 2023 | A* | KD,DM,AI,ML |
 |IEEE International Conference on Robotics and Automation|ICRA | CORE|2023|A*|AI|
+| Conference in Uncertainty in Artifical Intelligence | UAI | CORE | 2023 | A* | AI |
+|Usenix Security|USENIX-Security|CORE|2023|A*|Privacy|
+|Usenix Network and Distributed System Security Symposium|NDSS|CORE|2023|A*|Privacy|
 
 
 # A Conferences (High Tier)
@@ -39,6 +44,16 @@
 | Interspeech | Interspeech | CORE | 2023 | A | AI|
 |ACM International Conference on Information and Knowledge Management|CIKM|CORE|2023|A|AI,DS|
 |European Conference on Artificial Intelligence|ECAI|CORE|2023|A|AI,CV,ML|
+| ACM International Conference on Information and Knowledge Management | CIKM | CORE|2023|A|AI,ML|
+| International Conference on Computational Liguistics | COLING|CORE|2023|A|NLP,AI|
+|International Conference on Computational Science|ICCS|CORE|2023|A|CS,AI|
+|USENIX Annual Technical Conference|USENIX|CORE|2023|A|Distributed computing|
+|IEEE Workshop on Applications of Computer Vision	|WACV|	CORE|2023|	A	|CV, Image Processing|
+|Asia Conference on Information, Computer and Communications Security|AsiaCCS|CORE|2023|A|Privacy|
+|North American Association for Computational Linguistics|NAACL|CORE|2023|A|AI,
+|NLP|
+
+
 
 
 
@@ -49,5 +64,9 @@
 |	International Conference on Neural Information Processing |	ICONIP	|CORE|2023	|B|	Neural Networks, AI|
 |	IEEE International Joint Conference on Neural Networks|	IJCNN|	CORE|2023|	B	|Neural Networks, AI|
 |	International Conference on Pattern Recognition|	ICPR|	CORE|2023|	B	|Pattern Recognition, CV|
-|IEEE Workshop on Applications of Computer Vision	|WACV|	CORE|2023|	B	|CV, Image Processing|
+| IEEE International Conference on Image Processing | ICIP | CORE|2023|B|IP|
 | IEEE International Conference on Acoustics, Speech and Signal Processing|ICASSP|CORE|2023|B|Speech, AI,ML|
+| Asian Conference on Computer Vision|ACCV|CORE|2023|B|CV,AI,ML|
+|IEEE International Conference on Acoustics, Speech and Signal Processing|ICASSP|CORE|2023|B|Audio,AI,ML,CV,MM|
+|International Conference on Artificial Neural Networks|ICANN|CORE|2023|C|NN,AI,ML|
+|International Conference on Parallel and Distributed Systems|ICPADS|CORE|2023|B|Distributed Computing|
