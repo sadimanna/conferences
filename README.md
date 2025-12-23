@@ -26,6 +26,7 @@
 |Usenix Security|USENIX-Security|CORE|2023|A*|Privacy|
 |Usenix Network and Distributed System Security Symposium|NDSS|CORE|2023|A*|Privacy|
 |Conference on Learning Theory | COLT|CORE|2023|A*|ML|
+|ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication|SIGCOMM|CORE|2023|A*|Distributed Computing|
 
 
 # A Conferences (High Tier)
