@@ -27,6 +27,7 @@
 |Usenix Network and Distributed System Security Symposium|NDSS|CORE|2023|A*|Privacy|
 |Conference on Learning Theory | COLT|CORE|2023|A*|ML|
 |ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication|SIGCOMM|CORE|2023|A*|Distributed Computing|
+|ACM SIGSAC Conference on Computer and Communications Security | CCS | ICORE | 2026 | A* | Security,Privacy |
 |IEEE International Conference on Computer Communications|INFOCOM|CORE|2023|A*|Distributed Computing|
 |ACM International Conference on Mobile Computing and Networking|MOBICOM|CORE|2023|A*|Distributed Computing|
 |Conference on Machine Learning Systems|MLSys|CORE|2023|Unranked|ML,AI|
@@ -57,6 +58,7 @@
 |Asia Conference on Information, Computer and Communications Security|AsiaCCS|CORE|2023|A|Privacy|
 |North American Association for Computational Linguistics|NAACL|CORE|2023|A|AI,NLP|
 |IEEE Symposium on Security and Privacy|S&P|CORE|2023|A|Privacy,Security|
+| ACM ASIA Computer and Communication Security | AsiaCCS | ICORE | 2026 | A | Security, Privacy |
 
 
 
