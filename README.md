@@ -59,7 +59,7 @@
 |North American Association for Computational Linguistics|NAACL|CORE|2023|A|AI,NLP|
 |IEEE Symposium on Security and Privacy|S&P|CORE|2023|A|Privacy,Security|
 | ACM ASIA Computer and Communication Security | AsiaCCS | ICORE | 2026 | A | Security, Privacy |
-
+| Privacy Enhancing Technologies Symposium | PETS | ICORE | 2026 | A | Cybersecurity and privacy |
 
 
 
